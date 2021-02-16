@@ -11,3 +11,6 @@
 - Colin P. Manikoth
 - [CSS-Tricks](https://css-tricks.com/)
 - [w3schools](https://www.w3schools.com/)
+- [DuckDuckGo Logo](https://duckduckgo.com/assets/common/dax-logo.svg)
+- [DuckDuckGo Styling](https://duckduckgo.com/)
+- [Google Fonts](https://fonts.google.com/)

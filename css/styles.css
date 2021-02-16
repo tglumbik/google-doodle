@@ -4,14 +4,15 @@
 
 /* Doodle Stage */
 #stage {
-  background: #ccc;
-  height: 300px;
-  width: 600px;
+  background: #f7f7f7;
+  height: 100vh;
+  width: 100vw;
 }
 
 /* Record SVG */
 .recordSVG {
   width: 250px;
+  display: none;
 }
 
 .recordGrooves {
@@ -38,4 +39,18 @@
 .bunnyCover {
   fill: #000;
   width: 250px;
+  display: none;
+}
+
+/* DuckDuckGo */
+.ddg {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ddg h1 {
+  font-weight: 100;
 }
