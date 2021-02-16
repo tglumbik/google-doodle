@@ -1,12 +1,5 @@
-/* My Awesome Styles */
-
-/* Diagnostic Styling 
-  * Change Background Color
-  * Outline Elements
-*/
-
 * {
-    outline: 1px dotted black;
+  /* outline: 1px dotted black; */
 }
 
 /* Doodle Stage */
@@ -16,10 +9,33 @@
   width: 600px;
 }
 
-#heart1 {
-  fill: red;
+/* Record SVG */
+.recordSVG {
+  width: 250px;
 }
 
-#heart2 {
-  fill: green;
+.recordGrooves {
+  fill: #323232;
+}
+
+.recordLabel {
+  fill: #ff6;
+}
+
+.recordBase {
+  fill: #000;
+}
+
+.recordText {
+  fill: #000;
+}
+
+/* Bunny Cover */
+.bunnyBG {
+  fill: #ff6;
+}
+/* Bunny Outline and Master */
+.bunnyCover {
+  fill: #000;
+  width: 250px;
 }
