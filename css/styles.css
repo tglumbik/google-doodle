@@ -12,7 +12,8 @@
 /* Record SVG */
 .recordSVG {
   width: 250px;
-  display: none;
+  /* display: none; */
+  position: absolute;
 }
 
 .recordGrooves {
