@@ -1,9 +1,13 @@
 # My Topic Google Doodle
 
-50+ words about your Google Doodle.
+“Peter Cottontail” is an Easter themed song sung originally by Mervin Shiner. This 1950’s country song became quite popular and was covered by various artists. This animation project features the song sung by Gene Autry. While people may not have heard Gene Autry sing this Easter tune, many people will be quite familiar with his Christmas tune: “Here Comes Santa Claus” and “Rudolph the Red Nosed Reindeer”.
 
 ## Collage
 
-[Smaple to Figma Collage](https://www.figma.com/file/KIEiC0Tgx5IF1BhpTLZhn0/Google-Doodle?node-id=0%3A1)
+[Figma Collage](https://www.figma.com/file/zz60NLzz1XrwHAwk6BksSu/Glumbik-Google-Doodle?node-id=0%3A1)
 
 ## Resources
+
+- Colin P. Manikoth
+- [CSS-Tricks](https://css-tricks.com/)
+- [w3schools](https://www.w3schools.com/)
