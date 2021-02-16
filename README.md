@@ -14,3 +14,4 @@
 - [DuckDuckGo Logo](https://duckduckgo.com/assets/common/dax-logo.svg)
 - [DuckDuckGo Styling](https://duckduckgo.com/)
 - [Google Fonts](https://fonts.google.com/)
+- [amoghdesign](https://www.iconfinder.com/amoghdesign)
