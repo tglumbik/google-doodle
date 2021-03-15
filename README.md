@@ -1,6 +1,6 @@
 # My Topic Google Doodle
 
-“Peter Cottontail” is an Easter themed song sung originally by Mervin Shiner. This 1950’s country song became quite popular and was covered by various artists. This animation project features the song sung by Gene Autry. While people may not have heard Gene Autry sing this Easter tune, many people will be quite familiar with his Christmas tune: “Here Comes Santa Claus” and “Rudolph the Red Nosed Reindeer”.
+“Peter Cottontail” is an Easter themed song sung originally by Mervin Shiner. This 1950’s country song became quite popular and was covered by various artists. This animation project features the song sung by Gene Autry. While people may not have heard Gene Autry sing this Easter tune, many people will be quite familiar with his Christmas songs: “Here Comes Santa Claus” and “Rudolph the Red Nosed Reindeer”.
 
 ## Collage
 
