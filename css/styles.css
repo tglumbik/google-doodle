@@ -22,8 +22,20 @@
   fill: #323232;
 }
 
-.recordLabel {
+.recordLabel0 {
   fill: #ff6;
+}
+
+.recordLabel1 {
+  fill: #f9f;
+}
+
+.recordLabel2 {
+  fill: #9f9;
+}
+
+.recordLabel3 {
+  fill: #3ff;
 }
 
 .recordBase {
@@ -35,11 +47,27 @@
 }
 
 /* Bunny Cover */
-.bunnyBG {
+.bunnyCover0 g path.bunnyBG {
   fill: #ff6;
 }
+
+.bunnyCover1 g path.bunnyBG {
+  fill: #f9f;
+}
+
+.bunnyCover2 g path.bunnyBG {
+  fill: #9f9;
+}
+
+.bunnyCover3 g path.bunnyBG {
+  fill: #3ff;
+}
+
 /* Bunny Outline and Master */
-.bunnyCover {
+.bunnyCover0,
+.bunnyCover1,
+.bunnyCover2,
+.bunnyCover3 {
   fill: #000;
   width: 200px;
   /* display: none; */
@@ -73,11 +101,14 @@
 
 .ddgLogoContainer {
   position: relative;
+  top: 50px;
+  left: 50px;
 }
 
 .ddgLogoContainer:hover .ddgLogo {
   opacity: 100;
 }
+
 
 
 
